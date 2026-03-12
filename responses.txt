@@ -1,0 +1,10 @@
+hello:Hi there! How can I help you today?
+hi:Hello! Nice to see you.
+your name:I’m your virtual AI assistant created for this project.
+java:Java is an object-oriented language used for building applications.
+ai:Artificial Intelligence allows machines to think like humans.
+project:This chatbot is developed for the MCA project on Chatbots and Virtual Assistants Using AI.
+time:The current time is shown when you type 'time'.
+date:Today's date is displayed when you type 'date'.
+bye:Goodbye! Have a nice day!
+help:Available commands: hello, java, ai, project, time, date, bye
